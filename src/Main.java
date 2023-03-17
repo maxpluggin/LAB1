@@ -4,8 +4,9 @@ class Lab1 {
 
         System.out.println("HELLO");
         System.out.println("WORLD");
-        System.out.println("Mockingbird xdxdxd");
+        System.out.println("Mockingbird TEST");
 
     }
 }
+
 // comment
